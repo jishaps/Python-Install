@@ -16,3 +16,5 @@
     Try to open the main.py it will ask to install the python extension 
     install jupytor
 
+   Book to learn python: https://automatetheboringstuff.com/#toc
+
