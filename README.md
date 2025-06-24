@@ -17,4 +17,5 @@
     install jupytor
 
    Book to learn python: https://automatetheboringstuff.com/#toc
+   Reg Expression functions: re.combile, search or findall, group
 
